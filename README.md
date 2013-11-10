@@ -1,4 +1,4 @@
 sailsCasts
 ==========
 
-SailsCasts application
+[SailsCasts](http://irlnathan.github.io/sailscasts/blog/archives/) application
